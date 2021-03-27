@@ -1,6 +1,7 @@
 /* Body */
 body{
-  background-color: #EDEDED; 
+  /* background-color: #b5e3f5;  */
+  background-color: #effaf9; 
 }
 /* Navbar */
 .navbar{
@@ -12,10 +13,6 @@ body{
   padding: inherit; 
   font-weight: bold; 
   background-color: #0BADA6;
-<<<<<<< HEAD
-  /* background-color: #7e74af; */
-=======
->>>>>>> 8b09b37a2a75445222406ead54ee173719824c76
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .navbar{
@@ -49,10 +46,6 @@ img{
 }
 .active, .panel:hover{
   border-color:#0BADA6;
-<<<<<<< HEAD
-  /* border-color: #7e74af; */
-=======
->>>>>>> 8b09b37a2a75445222406ead54ee173719824c76
   border-style: solid; 
   
 }
@@ -63,12 +56,11 @@ img{
 
 /* Title Class  */
 .title{
-<<<<<<< HEAD
+
   color: #0BADA6;
-  /* color: #7e74af;   */
+
 =======
   color: #0BADA6;  
->>>>>>> 8b09b37a2a75445222406ead54ee173719824c76
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: bolder; 
   padding-top: 25px; 
@@ -95,19 +87,18 @@ font-size: 17px;
 }
 /* Footer */
 footer{
-background-color: #E7E7E7; 
+background-color: white; 
+/* background-color: #0BADA6;  */
 /* background-color: #0BADA6; */
 border-top-style: solid; 
 border-top-width: 5px; 
 border-top-color: #0BADA6;
-<<<<<<< HEAD
-/* border-top-color: #7e74af; */
 color: #0BADA6; 
-/* color: #7e74af; */
+/* color: white;  */
 
 =======
 color: #0BADA6; 
->>>>>>> 8b09b37a2a75445222406ead54ee173719824c76
+
 min-height: 25px; 
 font-family: Arial, Helvetica, sans-serif;
 font-size: 15px; 
@@ -122,10 +113,7 @@ padding-top: 15px;
 @media(max-width: 992px){
 .navbar-expand-lg{
 background-color: #0BADA6 !important;
-<<<<<<< HEAD
-/* background-color: #7e74af !important; */
-=======
->>>>>>> 8b09b37a2a75445222406ead54ee173719824c76
+
 }
 .navbar{
   max-height: none; 
